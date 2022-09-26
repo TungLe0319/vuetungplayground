@@ -132,7 +132,7 @@ export default {
       //add a property to toggle the player-card here.
       //add a property to set the number value here.
       showPlayer:false,
-      grade :90,
+      grade :50,
       player: {
         photo: "https://robohash.org/Mick",
         name: "Mick",
